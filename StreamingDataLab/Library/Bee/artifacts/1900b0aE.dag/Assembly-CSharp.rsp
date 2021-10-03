@@ -335,6 +335,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Assignment.cs"
 "Assets/InternalSystems.cs"
+"Assets/LazyProfessorClient.cs"
 "Assets/SystemManager.cs"
 -langversion:8.0
 
